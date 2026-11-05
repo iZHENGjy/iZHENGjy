@@ -43,8 +43,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=iZHENGjy&show_icons=true&theme=onedark&hide_border=true&count_private=true" alt="GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iZHENGjy&layout=compact&theme=onedark&hide_border=true" alt="Top languages">
+  <img height="165" src="cards/stats.svg" alt="GitHub stats">
+  <img height="165" src="cards/top-langs.svg" alt="Top languages">
 </p>
 
 <!-- Trophy wall: turn on once there are more stars/followers, otherwise most trophies show empty.
