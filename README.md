@@ -6,6 +6,11 @@
 </p>
 
 <p align="center">
+  <i>Get the math and physics right first, then let AI scale up the engineering.</i><br>
+  <b>数理筑基，AI 赋能工程。</b>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
   <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code">
@@ -36,6 +41,7 @@
 ### 🌱 Currently
 
 - Building **OpenEra**, an open-source course on using AI in university majors
+- Distilling my notes on foundational math and physics into short, reusable references
 
 ---
 
