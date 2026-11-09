@@ -11,32 +11,31 @@
   <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code">
   <img src="https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white" alt="Obsidian">
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib">
+  <br>
+  <img src="https://img.shields.io/badge/Aspen_Plus-0E4C92?style=for-the-badge" alt="Aspen Plus">
+  <img src="https://img.shields.io/badge/AutoCAD-E51050?style=for-the-badge&logo=autocad&logoColor=white" alt="AutoCAD">
+  <img src="https://img.shields.io/badge/MATLAB-E16737?style=for-the-badge" alt="MATLAB">
+  <img src="https://img.shields.io/badge/Origin-1F6FB5?style=for-the-badge" alt="Origin">
 </p>
 
 ---
 
 ### 🔧 Projects
 
-**[claudesidian-learning-os](https://github.com/iZHENGjy/claudesidian-learning-os)** — Claude Code + Obsidian plugins that turn lecture slides into teaching notes, an exam review vault and quizzes.
-- Worked examples in the notes are re-calculated in Python, so the numbers match the lecture
-- Built for and used on my own mass-transfer course
-- [Live demo →](https://izhengjy.github.io/claudesidian-learning-os/)
+**[claudesidian-learning-os](https://github.com/iZHENGjy/claudesidian-learning-os)** — A Claude Code + Obsidian plugin that turns lecture slides into study notes, an exam review vault and quizzes. Worked examples are re-calculated in Python, so the numbers in the notes match the lecture. [Live demo →](https://izhengjy.github.io/claudesidian-learning-os/)
 
-**[chemeng-plots](https://github.com/iZHENGjy/chemeng-plots)** — graphical-method plots for separation processes: ternary diagrams, stage stepping, leaching, drying, psychrometrics.
-- Each plot also returns the values it reads off the diagram
-- Warns you when a construction can't finish, instead of giving a wrong stage count
+**[chemeng-plots](https://github.com/iZHENGjy/chemeng-plots)** — A Python toolkit for the graphical methods in separation processes: ternary diagrams, stage stepping, leaching, drying and psychrometric charts. Besides drawing the diagram, it returns the values read off it, so you can use them straight in your calculations.
 
-**[ru-drawing-cn-annotator](https://github.com/iZHENGjy/ru-drawing-cn-annotator)** — Russian engineering drawings (PDF, DWG/DXF) → bilingual Chinese editions, without touching the original.
-- Chinese is added next to the Russian as blue text (PDF) or on a separate layer (CAD)
-- Numbers, ГОСТ/СП codes and material grades are kept as-is
-- Started from a real translation job on a Russian construction drawing set
+**[ru-drawing-cn-annotator](https://github.com/iZHENGjy/ru-drawing-cn-annotator)** — Adds Chinese translations next to the Russian text on engineering drawings (PDF, DWG/DXF) without modifying the original. Numbers, ГОСТ/СП codes and material grades stay untouched; it started from a real translation job on a Russian construction drawing set.
 
 ### 🧪 Interests
 
-- Chemical engineering: mass transfer, separation processes, materials science
-- Ionogels (literature review in progress)
-- LLM agents for engineering & education: Claude Code plugins, agent skills, PDF → structured-data pipelines
-- Technical translation for engineering documents (Russian → Chinese)
+- AI agent workflows: Claude Code plugins, agent skills, automated pipelines
+- Tools that make studying more efficient: notes, review and practice
+
+### 🌱 Currently
+
+- Building **OpenEra**, an open-source course on using AI in university majors
 
 ---
 
