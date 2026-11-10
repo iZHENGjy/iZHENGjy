@@ -3,23 +3,23 @@
 <text x="25" y="35" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif" font-size="18" font-weight="600" fill="#e4bf7a">Most Used Languages</text>
 <clipPath id="bar"><rect x="25" y="52" width="250" height="8" rx="4"/></clipPath>
 <g clip-path="url(#bar)">
-<rect x="25.00" y="52" width="104.37" height="8" fill="#3572A5"/>
-<rect x="129.37" y="52" width="87.42" height="8" fill="#f1e05a"/>
-<rect x="216.79" y="52" width="29.28" height="8" fill="#3178c6"/>
-<rect x="246.07" y="52" width="16.06" height="8" fill="#e34c26"/>
-<rect x="262.13" y="52" width="12.37" height="8" fill="#663399"/>
-<rect x="274.50" y="52" width="0.50" height="8" fill="#012456"/>
+<rect x="25.00" y="52" width="144.00" height="8" fill="#3572A5"/>
+<rect x="169.00" y="52" width="64.09" height="8" fill="#f1e05a"/>
+<rect x="233.09" y="52" width="21.05" height="8" fill="#3178c6"/>
+<rect x="254.14" y="52" width="11.56" height="8" fill="#e34c26"/>
+<rect x="265.70" y="52" width="8.95" height="8" fill="#663399"/>
+<rect x="274.64" y="52" width="0.36" height="8" fill="#012456"/>
 </g>
 <circle cx="30" cy="81" r="5" fill="#3572A5"/>
-<text x="40" y="85" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif" font-size="11" fill="#abb2bf">Python 41.7%</text>
+<text x="40" y="85" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif" font-size="11" fill="#abb2bf">Python 57.6%</text>
 <circle cx="165" cy="81" r="5" fill="#f1e05a"/>
-<text x="175" y="85" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif" font-size="11" fill="#abb2bf">JavaScript 35.0%</text>
+<text x="175" y="85" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif" font-size="11" fill="#abb2bf">JavaScript 25.6%</text>
 <circle cx="30" cy="106" r="5" fill="#3178c6"/>
-<text x="40" y="110" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif" font-size="11" fill="#abb2bf">TypeScript 11.7%</text>
+<text x="40" y="110" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif" font-size="11" fill="#abb2bf">TypeScript 8.4%</text>
 <circle cx="165" cy="106" r="5" fill="#e34c26"/>
-<text x="175" y="110" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif" font-size="11" fill="#abb2bf">HTML 6.4%</text>
+<text x="175" y="110" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif" font-size="11" fill="#abb2bf">HTML 4.6%</text>
 <circle cx="30" cy="131" r="5" fill="#663399"/>
-<text x="40" y="135" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif" font-size="11" fill="#abb2bf">CSS 4.9%</text>
+<text x="40" y="135" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif" font-size="11" fill="#abb2bf">CSS 3.6%</text>
 <circle cx="165" cy="131" r="5" fill="#012456"/>
-<text x="175" y="135" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif" font-size="11" fill="#abb2bf">PowerShell 0.2%</text>
+<text x="175" y="135" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif" font-size="11" fill="#abb2bf">PowerShell 0.1%</text>
 </svg>
