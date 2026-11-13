@@ -6,13 +6,13 @@
 <text x="250" y="70" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif" font-size="14" font-weight="700" fill="#abb2bf">9</text>
 <circle cx="31" cy="90" r="4" fill="#8eb573"/>
 <text x="45" y="95" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif" font-size="14" font-weight="600" fill="#df6d74">Total stars:</text>
-<text x="250" y="95" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif" font-size="14" font-weight="700" fill="#abb2bf">9</text>
+<text x="250" y="95" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif" font-size="14" font-weight="700" fill="#abb2bf">10</text>
 <circle cx="31" cy="115" r="4" fill="#8eb573"/>
 <text x="45" y="120" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif" font-size="14" font-weight="600" fill="#df6d74">Commits (last year):</text>
-<text x="250" y="120" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif" font-size="14" font-weight="700" fill="#abb2bf">624</text>
+<text x="250" y="120" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif" font-size="14" font-weight="700" fill="#abb2bf">633</text>
 <circle cx="31" cy="140" r="4" fill="#8eb573"/>
 <text x="45" y="145" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif" font-size="14" font-weight="600" fill="#df6d74">Pull requests:</text>
-<text x="250" y="145" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif" font-size="14" font-weight="700" fill="#abb2bf">191</text>
+<text x="250" y="145" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif" font-size="14" font-weight="700" fill="#abb2bf">193</text>
 <circle cx="31" cy="165" r="4" fill="#8eb573"/>
 <text x="45" y="170" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif" font-size="14" font-weight="600" fill="#df6d74">Followers:</text>
 <text x="250" y="170" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif" font-size="14" font-weight="700" fill="#abb2bf">7</text>
